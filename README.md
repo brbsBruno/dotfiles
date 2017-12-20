@@ -12,6 +12,10 @@ $ cd ~/dotfiles
 $ sh ./setup
 ```
 
+3. Add the following to your .zshrc:
+```
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+```
 
 inspired by
 --
