@@ -1,0 +1,5 @@
+# dependency manager for Swift and Objective-C (https://cocoapods.org)
+cocoapods
+
+# zsh pluggin (https://github.com/zsh-users/zsh-autosuggestions)
+zsh-autosuggestions
